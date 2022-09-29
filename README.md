@@ -4,8 +4,8 @@
 # E-VFIA : Event-Based Video Frame Interpolation with Attention  
   
 by  
-Onur Selim Kılıç [[GitHub](github.com/OnurSelim), [LinkedIn](https://www.linkedin.com/in/onur-selim-kili%C3%A7-6486371a7/)],  
-Ahmet Akman [[GitHub](github.com/ahmetakman), [LinkedIn](https://linkedin.com/in/ahmet-akman-039b05148)],  
+Onur Selim Kılıç [[GitHub](https://github.com/OnurSelim), [LinkedIn](https://www.linkedin.com/in/onur-selim-kili%C3%A7-6486371a7/)],  
+Ahmet Akman [[GitHub](https://github.com/ahmetakman), [LinkedIn](https://linkedin.com/in/ahmet-akman-039b05148)],  
 A. Aydın Alatan [[Website](https://users.metu.edu.tr/home105/alatan/wwwhome/), [LinkedIn](https://linkedin.com/in/a-aydin-alatan-864820)] 
   
   
