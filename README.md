@@ -1,6 +1,3 @@
-
-
-
 # E-VFIA : Event-Based Video Frame Interpolation with Attention  
   
 by  
