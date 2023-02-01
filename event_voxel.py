@@ -89,7 +89,7 @@ class EventVoxel(Dataset):
         W, H = gt.size
 
         events_left = event.EventSequence.from_npz_files(
-            list_of_filenames=list_of_events[:2],
+            list_of_filenames=list_of_events[:3],
             image_height=H,
             image_width=W,
             hsergb=self.is_hsergb,
@@ -98,7 +98,7 @@ class EventVoxel(Dataset):
         voxel_left = representation.to_voxel_grid(events_left, nb_of_time_bins=self.number_of_time_bins)
 
         events_right = event.EventSequence.from_npz_files(
-            list_of_filenames=list_of_events[2:],
+            list_of_filenames=list_of_events[3:],
             image_height=H,
             image_width=W,
             hsergb=self.is_hsergb,

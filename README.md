@@ -8,7 +8,7 @@ A. Aydın Alatan [[Website](https://users.metu.edu.tr/home105/alatan/wwwhome/), 
   
  [[Paper](https://arxiv.org/abs/2209.09359)]  
   
-This paper has been submitted for publication in [ICRA23](https://www.icra2023.org/).
+This paper is accepted for publication in [ICRA23](https://www.icra2023.org/).
 
 ![](figures/comparison2.png)  
   
@@ -50,7 +50,7 @@ After training, you can evaluate the model with following command:
 ```
 python test.py --data_root <dataset_path> --load_from pretrained/model_best.pth
 ```
-You can also evaluate E-VFIA using our weight [here](https://drive.google.com/drive/folders/1MhleUxUInTwwlAvSZkB0I0jKxBYIVSBv?usp=sharing).
+You can also evaluate E-VFIA using our weight [here](https://drive.google.com/drive/folders/1aS81DQzX8YHK3cfLmLv97rwCrbt4xDv6?usp=sharing).
 
 
 Please consider citing this paper if you find the code useful in your research:
